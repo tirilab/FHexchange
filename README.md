@@ -7,6 +7,12 @@ FHexchange is a resource that consists of annotated data from two existing dialo
 1. 104 Chatbot transcripts from Nguyen et al., 2024, JMIR [^1] referred to as FHexchange-KIT, and
 2. 154 FHx-related dialogs from the openly available MTS-Dialog dataset from Ben Abacha et al., 2023, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics [^2], referred to as FHexchange-MTS. [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog)
 
+Folder structure is organized and named according to these two sources. 
+
+## FHexchange-KIT
+
+## FHexchange-MTS
+
 
 ## References
 [^1]: Nguyen M, Sedoc J, Taylor C. Usability, Engagement, and Report Usefulness of Chatbot-Based Family Health History Data Collection: Mixed Methods Analysis. J Med Internet Res 2024;26:e55164. URL: https://www.jmir.org/2024/1/e55164. DOI: 10.2196/55164
