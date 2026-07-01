@@ -16,9 +16,12 @@ project/
 │       └── FHexchange_MTS/
 │           └── annotations/
 ├── src/
-│   ├── scripts/
-│   └── ...
-├── README.md
+│   ├── __init__.py
+│   ├── core.py
+│   ├── prompts.py
+│   └── run_experiment.py
+├── requirements.txt
+└── README.md
 ```
 
 # Data
