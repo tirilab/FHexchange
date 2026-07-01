@@ -5,14 +5,28 @@ Thanks for visiting this repository. Here you can access the annotated datasets 
 ## Dataset sources
 FHexchange is a resource that consists of annotated data from two existing dialog corpora:
 1. 104 Chatbot transcripts from Nguyen et al., 2024, JMIR [^1] referred to as FHexchange-KIT, and
-2. 154 FHx-related dialogs from the openly available MTS-Dialog dataset from Ben Abacha et al., 2023, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics [^2], referred to as FHexchange-MTS. [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog)
+2. 154 FHx-related dialogs from the openly available MTS-Dialog dataset from Ben Abacha et al., 2023, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics [^2], referred to as FHexchange-MTS. [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog) 
 
-Folder structure is organized and named according to these two sources. 
+Folder structure is organized as follows: 
+.
+├── build                   # Compiled files (alternatively `dist`)
+├── docs                    # Documentation files (alternatively `doc`)
+├── src                     # Source files (alternatively `lib` or `app`)
+├── test                    # Automated tests (alternatively `spec` or `tests`)
+├── tools                   # Tools and utilities
+├── LICENSE
+└── README.md
+
+and named according to these two sources. 
 
 ## FHexchange-KIT
 
+
 ## FHexchange-MTS
 
+
+## Acknowledgments
+We'd like to acknowledge the genetic counselors who assisted us in developing the annotation guideline. Additionally, thank you to the MTS-Dialog dataset authors, Drs. Asma Ben Abacha, Wen-wai Yim, Yadan Fan, Thomas Lin for making the resource accessible for the clinical NLP research community!
 
 ## References
 [^1]: Nguyen M, Sedoc J, Taylor C. Usability, Engagement, and Report Usefulness of Chatbot-Based Family Health History Data Collection: Mixed Methods Analysis. J Med Internet Res 2024;26:e55164. URL: https://www.jmir.org/2024/1/e55164. DOI: 10.2196/55164
