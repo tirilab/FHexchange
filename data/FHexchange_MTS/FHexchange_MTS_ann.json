@@ -1,1 +1,6934 @@
-
+{
+  "8": [
+    {
+      "family_member": "Uncle",
+      "age_of_onset": null,
+      "observation": "had polio, had to wear crutches due to severe leg deformans",
+      "side_of_family": "Maternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": "40",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Uncle",
+      "age_of_onset": null,
+      "observation": "had polio, had leg deformities in only one leg.",
+      "side_of_family": "Maternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Child",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "9": [
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "prostate cancer",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "brain cancer",
+      "side_of_family": null,
+      "living_status": "Unknown",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart related issues",
+      "side_of_family": "Paternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart related issues",
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "26": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "any conditions",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": true
+    }
+  ],
+  "29": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart problem",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "cerebrovascular disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "blood sugar",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "31": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "none",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "32": [
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "suicide",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "stomach cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "53",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "thyroid cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "52",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "color cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "52",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Siblings",
+      "age_of_onset": null,
+      "observation": "other 7 siblings are healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "34": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "stomach cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "59",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "91",
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "38": [
+    {
+      "family_member": "Brother 2",
+      "age_of_onset": null,
+      "observation": "parkinson disease",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "70",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Son",
+      "age_of_onset": null,
+      "observation": "high cholesterol",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Son",
+      "age_of_onset": null,
+      "observation": "glaucoma",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Son",
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "89",
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother 1",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "92",
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Son",
+      "age_of_onset": null,
+      "observation": "rheumatoid arthritis",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "85",
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother 3",
+      "age_of_onset": null,
+      "observation": "parkinson disease",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "70",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "42": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "45": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "major illnesses",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": true
+    }
+  ],
+  "54": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart problems",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "type 2 diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandfather",
+      "age_of_onset": null,
+      "observation": "type 2 diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Son",
+      "age_of_onset": null,
+      "observation": "type 1 diabetes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Cousin 1",
+      "age_of_onset": null,
+      "observation": "breast cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "56": [
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "asthma and uses inhaler",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "lung cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "gout",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "blood clots",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "tumors removed from her stomach or something",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high cholesterol",
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "58": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high sugar",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "65": [
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": "huntington disease",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "attempted to suicide two times",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "38",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Aunt",
+      "age_of_onset": null,
+      "observation": "huntington disease",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "huntington disease",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Child",
+      "age_of_onset": null,
+      "observation": "adopted child #1",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Child",
+      "age_of_onset": null,
+      "observation": "adopted child #2",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "mental issues",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "66": [
+    {
+      "family_member": "Uncle",
+      "age_of_onset": null,
+      "observation": "adison's disease",
+      "side_of_family": "Paternal",
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "lupus",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "76": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "77": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "80": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "cancer of unknown kind",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "85": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown family health history",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "86": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "healthy, no family history of illness",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "91": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "healthy, no family history illness known",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "94": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "healthy, no family history of illness",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "99": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "liver cancer",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "ovarian cancer",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "101": [
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": "brain aneurysm",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "106": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "migraines",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "dizziness",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "107": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "120": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "none",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "143": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "blood pressure issues",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "thyroid issue",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "144": [
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "yeast infections",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "10",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "50",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "40",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Half sister",
+      "age_of_onset": "Maternal",
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "34",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "149": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "lazy eyes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 1",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "5",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 2",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "9",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "160": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "any conditions",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": true
+    }
+  ],
+  "162": [
+    {
+      "family_member": "Child 4",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "80s",
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "80s",
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "mental illness",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "other disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "memory loss",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Child 5",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Child 3",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Child 1",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "171": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "unknown cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "177": [
+    {
+      "family_member": "Child 3",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Child 1",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Child 2",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "200": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "Adhd",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "alzheimer's",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "epilepsy",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "218": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "medical issues",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disorder",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "225": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "coronary artery disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "230": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "prostate cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Uncle",
+      "age_of_onset": null,
+      "observation": "melanoma",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Uncle",
+      "age_of_onset": null,
+      "observation": "prostate cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Uncle",
+      "age_of_onset": null,
+      "observation": "hodgkin's disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Uncle",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "236": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling",
+      "age_of_onset": null,
+      "observation": "healthy, multiple siblings",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "243": [
+    {
+      "family_member": "Daughter",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "256": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "no family history of health problems",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": true
+    }
+  ],
+  "269": [
+    {
+      "family_member": "Son",
+      "age_of_onset": null,
+      "observation": "healthy, son #1",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "54",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "healthy, son #2, ",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "57",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "healthy, brother #1",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "68",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "neonatal death",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "twin, died at birth",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "neonatal death",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "twin, died at birth",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "77",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart attacks",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "290": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "arthritis",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "291": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "292": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "arthritis",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown family history of joint replacement",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "298": [
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": "heart issues",
+      "side_of_family": "Maternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Grandaunt",
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart issues",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "blood pressure issues",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "unknown cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "63",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "320": [
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "migraines",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "healthy when alive",
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "healthy when alive",
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "326": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "stress disorder",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "anxiety",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "327": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "e t",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "e t",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Cousin",
+      "age_of_onset": null,
+      "observation": "lupus",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Cousin",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling",
+      "age_of_onset": null,
+      "observation": "e t ",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Cousin",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "339": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "neurological disorder",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "347": [
+    {
+      "family_member": "Aunt",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": "Paternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Aunt",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "alzheimer's disease",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Aunt",
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "no other known condition",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "349": [
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": "had breast cancer",
+      "side_of_family": "Paternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "benign lumps in breast",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "351": [
+    {
+      "family_member": "Son 1",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "37",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "prostate cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "80",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "alcoholic",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "67",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "nervous condition",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "bone cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "70",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "throat cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "70",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Son 2",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "38",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "depression",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Daughter 2",
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "58",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Daughter 1",
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "60",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "lung disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "kidney disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "depression",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "359": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "liver cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "lung cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "prostate cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Siblings",
+      "age_of_onset": null,
+      "observation": "alzheimer's",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": "80",
+      "observation": "mild dementia",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "366": [
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "had prostate cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "375": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "skin cancer",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "389": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "colon cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "breast cancer",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "50s",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "uterine cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "ovarian cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "breast cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": "70",
+      "observation": "stomach cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "394": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "leukemia",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Uncle",
+      "age_of_onset": null,
+      "observation": "leukemia",
+      "side_of_family": "Paternal",
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart problems",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "alcoholism",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "418": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "sugar",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Uncle",
+      "age_of_onset": null,
+      "observation": "has dementia",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart failure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "copd",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "cervical cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "432": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "434": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "thromboembolism",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "pulmonary embolism",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "lung disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Child",
+      "age_of_onset": null,
+      "observation": "healthy, child #4",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Child",
+      "age_of_onset": null,
+      "observation": "healthy, child #3",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Child",
+      "age_of_onset": null,
+      "observation": "healthy, child #2",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Child",
+      "age_of_onset": null,
+      "observation": "healthy, child #1",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Child",
+      "age_of_onset": null,
+      "observation": "healthy, child #5",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "436": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "446": [
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": "Maternal",
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "nvst",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "450": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "low blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "456": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart issues",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "type 2 diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart issues",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "464": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart issues",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "468": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown, adopted",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "478": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": "70s",
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "480": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "brain hemorrhage",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "49",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 1",
+      "age_of_onset": null,
+      "observation": "heart issues",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Daughter",
+      "age_of_onset": null,
+      "observation": "high cholesterol",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 2",
+      "age_of_onset": null,
+      "observation": "has diabetes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "neurological disorder",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "70s",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart issues",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "485": [
+    {
+      "family_member": "Great grandmother",
+      "age_of_onset": null,
+      "observation": "kyphosis",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "2nd cousin",
+      "age_of_onset": null,
+      "observation": "kyphosis",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "488": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "510": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "512": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "solid tumors",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "blood malignancies",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "524": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "alcoholism",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "530": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "arthritis",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "orthopedic conditions",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "534": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "536": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "hodgkin's lymphoma",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "mesothelioma",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "colon cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unusual polyps",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "537": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "552": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "liver issues",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "560": [
+    {
+      "family_member": "Grandfather",
+      "age_of_onset": null,
+      "observation": "migraines",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "migraines",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "567": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "tumor, type unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "578": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "82",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": "80",
+      "observation": "stroke 2",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": "45",
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "sugar issues",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "80",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "592": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "lung cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "79",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "pancreatitis",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "40",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling",
+      "age_of_onset": null,
+      "observation": "mental illness",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "glaucoma",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "breast cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "FALSE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "infection",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "81",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "609": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "610": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "migraines",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "613": [
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "89",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "breast cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "neurological disorder",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": " ",
+      "observation": "MS",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "epilepsy",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "Huntington's",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "629": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "cva",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "69",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "sudden cardiac death",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "79",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "72",
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Child 1",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Child 2",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Child 3",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Child 4",
+      "age_of_onset": null,
+      "observation": " healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling 1",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling 2",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling 3",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling 4",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling 5",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling 6",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling 7",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling 8",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling 9",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "647": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "neurological disorder",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "Parkinson's",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "multiple sclerosis",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "dementia",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "654": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "62",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "dementia",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "661": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "liver cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Son",
+      "age_of_onset": null,
+      "observation": "hypothyroidism",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": "late 60s",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "60",
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandchild 1",
+      "age_of_onset": null,
+      "observation": "cerebral palsy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandchild 2",
+      "age_of_onset": null,
+      "observation": "cerebral palsy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "666": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "673": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "675": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": "79",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart problems",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Brother 1",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother 2",
+      "age_of_onset": null,
+      "observation": "prostate cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "91",
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "692": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "prostate cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": "pancreatic cancer",
+      "side_of_family": "Maternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "699": [
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "brain tumor",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "73",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "80",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart complications",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart complications",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "709": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "colon cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Daughter",
+      "age_of_onset": null,
+      "observation": "twitch",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "719": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "dementia",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "bone cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "724": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "arthritis",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "735": [
+    {
+      "family_member": "Aunt",
+      "age_of_onset": null,
+      "observation": "type 2 diabetes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "neuromuscular disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high arch",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "foot deformities",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "neuropathy in arms or legs",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "760": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "prostate cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "80",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "70",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "heart disorder",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "74",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "prostate cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "74",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "772": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "61",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "800": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "801": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "car accident",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "40",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "802": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "alcohol abuse",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "drug abuse",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "816": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "neurological problems",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": "90s",
+      "observation": "memory loss",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": "90s",
+      "observation": "memory loss",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sibling 1",
+      "age_of_onset": null,
+      "observation": "neuro related illness",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Sibling 2",
+      "age_of_onset": null,
+      "observation": "neuro related illness",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Sibling 3",
+      "age_of_onset": null,
+      "observation": "neuro related illness",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Sibling 4",
+      "age_of_onset": null,
+      "observation": "neuro related illness",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Sibling 5",
+      "age_of_onset": null,
+      "observation": "neuro related illness",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "817": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "coronary artery disease",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "820": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "migraines",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "blood clots",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "migraines",
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "826": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "none",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "838": [
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "50",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "840": [
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "breast cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "846": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart issues",
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Aunt",
+      "age_of_onset": null,
+      "observation": "sugar problem",
+      "side_of_family": "Paternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "851": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "nervous system disorder",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "epilepsy",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "multiple sclerosis",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "alzheimer's disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Son",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "864": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "865": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "868": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "905": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "migraines",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "family history of diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "925": [
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "coronary artery disease",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "74",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": "89",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "30",
+      "cause_of_death": "TRUE",
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "89",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "933": [
+    {
+      "family_member": "Uncle",
+      "age_of_onset": null,
+      "observation": "kidney failure",
+      "side_of_family": "Paternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "asthma",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "934": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "59",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "bypass with a graft",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "936": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "multiple myeloma",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "83",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "81",
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "937": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "945": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart failure",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "kidney failure",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother 1",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother 2",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "leukemia",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Son 1",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Son 2",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Daughter",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 1",
+      "age_of_onset": null,
+      "observation": "has breast cancer",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "depression",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 3",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 2",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 4",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "nervous condition",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 5",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high cholesterol",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "955": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "958": [
+    {
+      "family_member": "Brother 1",
+      "age_of_onset": null,
+      "observation": "asthma",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother 2",
+      "age_of_onset": null,
+      "observation": "angioplasties",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "ischemic cardiac disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother 3",
+      "age_of_onset": null,
+      "observation": "lymphoma",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "myocardial infarction",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "56",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "congestive heart failure",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "968": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "mesothelioma",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "ALS",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "970": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "idiopathic pulmonary fibrosis",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "spastic colon problem",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "irritable bowel syndrome",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "978": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": "75",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "old age",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "85",
+      "cause_of_death": "TRUE",
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "mini strokes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": "85",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "memory problems",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": "85",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "dementia",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": "85",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": "85",
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Aunt",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": "Paternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "983": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "50",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart failure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart problems",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "pacemaker",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "998": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "none",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "1006": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "1034": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister",
+      "age_of_onset": null,
+      "observation": "sinus problems",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "1039": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "1049": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "dental procedure complications",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "heart issues",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Daughter",
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "1052": [
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "coronary heart disease",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "1062": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "1064": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "none",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "1081": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown, adopted",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "1092": [
+    {
+      "family_member": "Great aunt",
+      "age_of_onset": null,
+      "observation": "seizures",
+      "side_of_family": "Maternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "seizures",
+      "side_of_family": "Paternal",
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "seizures",
+      "side_of_family": "Maternal",
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Great aunt",
+      "age_of_onset": null,
+      "observation": "seizures",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "seizures",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Great grandmother",
+      "age_of_onset": null,
+      "observation": "seizures",
+      "side_of_family": "Maternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "1100": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "none",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "1102": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart disease",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "1109": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "none",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "1116": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "healthy",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "none",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "1118": [
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "stroke",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "90s",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "colon cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "FALSE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "old age",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "neurological disorder",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "Alzheimer's",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "epilepsy",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "Parkinson's",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "MS",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "1127": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "1135": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "arthritis",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "joint replacement",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "1149": [
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": "diabetes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "1154": [
+    {
+      "family_member": "Father",
+      "age_of_onset": "40s",
+      "observation": "heart vessel blockage",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": "40s",
+      "observation": "heart vessel blockage",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "1156": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "carcinoma",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "heart problems",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "food allergies",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "high blood pressure",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "1161": [
+    {
+      "family_member": "Grandfather",
+      "age_of_onset": null,
+      "observation": "heart attack",
+      "side_of_family": "Maternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandfather",
+      "age_of_onset": null,
+      "observation": "heart issues",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "strokes",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": "69",
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "heart diseases",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "62",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandfather",
+      "age_of_onset": null,
+      "observation": "heart diseases",
+      "side_of_family": "Maternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": "heart diseases",
+      "side_of_family": "Maternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandmother",
+      "age_of_onset": null,
+      "observation": "fast heart beat",
+      "side_of_family": "Maternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Grandfather",
+      "age_of_onset": null,
+      "observation": "fast heart beat",
+      "side_of_family": "Maternal",
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ],
+  "1168": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "unknown",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "1170": [
+    {
+      "family_member": "Sister 3",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Half brother 2",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Half brother 1",
+      "age_of_onset": null,
+      "observation": "asthma",
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother 1",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Mother",
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "42",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 2",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 4",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": "62",
+      "cause_of_death": "TRUE",
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Sister 1",
+      "age_of_onset": null,
+      "observation": null,
+      "side_of_family": null,
+      "living_status": "Alive",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui": null,
+      "negated": false
+    }
+  ],
+  "1171": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "asthma",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "1173": [
+    {
+      "family_member": null,
+      "age_of_onset": null,
+      "observation": "thyroid problems",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": true
+    }
+  ],
+  "1185": [
+    {
+      "family_member": "Daughter",
+      "age_of_onset": "40",
+      "observation": "breast cancer",
+      "side_of_family": null,
+      "living_status": null,
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Brother",
+      "age_of_onset": null,
+      "observation": "colon cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    },
+    {
+      "family_member": "Father",
+      "age_of_onset": null,
+      "observation": "colon cancer",
+      "side_of_family": null,
+      "living_status": "Dead",
+      "age": null,
+      "age_of_death": null,
+      "cause_of_death": null,
+      "cui":  null,
+      "negated": false
+    }
+  ]
+}
