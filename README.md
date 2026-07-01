@@ -27,7 +27,9 @@ project/
 ## Dataset sources
 FHexchange is a resource that consists of annotated data from two existing dialog corpora:
 1. 104 Chatbot transcripts from Nguyen et al., 2024, JMIR [^1] referred to as FHexchange-KIT, and
-2. 154 FHx-related dialogs from the openly available MTS-Dialog dataset from Ben Abacha et al., 2023, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics [^2], referred to as FHexchange-MTS. [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog) \
+2. 154 FHx-related dialogs from the openly available MTS-Dialog dataset from Ben Abacha et al., 2023, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics [^2], referred to as FHexchange-MTS.\
+
+   
 The FHexchange-KIT transcripts are .txt files within the transcripts/ folder. The FHexchange_MTS transcripts can be downloaded from the [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog) . 
   
   ## Annotation file convention
