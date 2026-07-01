@@ -1,17 +1,12 @@
 # FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources
 ## Introduction to this resource
 Thanks for visiting this repository. Here you can access the annotated datasets from the [paper](https://aclanthology.org/2026.bionlp-1.82/): 
-``` FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources (Nguyen et al., BioNLP 2026)
 ```
-
-## Dataset sources
-FHexchange is a resource that consists of annotated data from two existing dialog corpora:
-1. 104 Chatbot transcripts from Nguyen et al., 2024, JMIR [^1] referred to as FHexchange-KIT, and
-2. 154 FHx-related dialogs from the openly available MTS-Dialog dataset from Ben Abacha et al., 2023, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics [^2], referred to as FHexchange-MTS. [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog) 
-
+FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources (Nguyen et al., BioNLP 2026)
+```
 ## Folder structure
 The repository is organized by the data and other code as follows:
-
+```text
 project/
 ├── data/
 │   └── FHexchange/
@@ -26,8 +21,13 @@ project/
 │   │   └── few_shot/
 │   └── ...
 ├── README.md
+```
 
-## Data
+# Data
+## Dataset sources
+FHexchange is a resource that consists of annotated data from two existing dialog corpora:
+1. 104 Chatbot transcripts from Nguyen et al., 2024, JMIR [^1] referred to as FHexchange-KIT, and
+2. 154 FHx-related dialogs from the openly available MTS-Dialog dataset from Ben Abacha et al., 2023, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics [^2], referred to as FHexchange-MTS. [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog) \
 The FHexchange-KIT transcripts are .txt files within the transcripts/ folder. The FHexchange_MTS transcripts can be downloaded from the [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog) . 
   
   ## Annotation file convention
