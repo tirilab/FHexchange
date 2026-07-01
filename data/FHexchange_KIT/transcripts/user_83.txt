@@ -1,0 +1,44 @@
+Kit: <p>Hello, thanks for connecting! I am KIT, the family health history conversational agent. My job is to collect information about your family health history, but all your responses will remain anonymous and confidential. I will ask you a few quick questions. Anytime during our chat, you can</p><ul><li>Text a question, e.g., what does anemia mean?</li><li>Text HELP To see what I can help with</li><li>Text RESTART to restart our chat</li></ul> 
+Kit: <p>Please answer each question as honestly as possible. There are no right or wrong answers to any of the questions. It is important that you answer as many questions as you can. We are looking for your own answers, and not what you think your doctors, family, or friends want you to say.</p> 
+Kit: <p>Don’t feel like you have to spend a long time on each question. The first answer that comes to you is usually the best one. If you aren’t sure how to answer a question, choose the best answer from the available choices. Some questions also let you say if you don’t know an answer, or would rather not answer.</p> 
+Kit: <p>This module asks you about your family’s medical history. You will be shown a list of conditions and asked to select those that certain family members have or had. If you need help understanding the conditions, you can always ask me! Understanding your family’s experiences with medical issues can tell us a lot about what kinds of medical issues might be related to your genetics. Genetics has to do with traits that are passed down from generation to generation in a family.</p> 
+Kit: <p>You will be asked questions about your family. Think only of people you are related to by blood including those living or deceased.&nbsp;</p> 
+Kit: <p>Please tell me when you're ready to continue!</p> 
+You: ok 
+Kit: Got it,  mind saying a bit more? 
+You: what 
+Kit: what? 
+You: What do you want me to do 
+Kit: I don't really know.  
+Kit:  How about you lead, and I'll follow. 
+Kit: Okay. Let's go back to where we were.  
+Kit:  <p>You will be asked questions about your family. Think only of people you are related to by blood including those living or deceased.&nbsp;</p> 
+Kit: <p>Please tell me when you're ready to continue!</p> 
+You: yes 
+Kit: Okay,  anything to add? 
+You: ??? 
+Kit: <p>Hello, thanks for connecting! I am KIT, the family health history conversational agent. My job is to collect information about your family health history, but all your responses will remain anonymous and confidential. I will ask you a few quick questions. Anytime during our chat, you can</p><ul><li>Text a question, e.g., what does anemia mean?</li><li>Text HELP To see what I can help with</li><li>Text RESTART to restart our chat</li></ul> 
+Kit: <p>Please answer each question as honestly as possible. There are no right or wrong answers to any of the questions. It is important that you answer as many questions as you can. We are looking for your own answers, and not what you think your doctors, family, or friends want you to say.</p> 
+Kit: <p>Don’t feel like you have to spend a long time on each question. The first answer that comes to you is usually the best one. If you aren’t sure how to answer a question, choose the best answer from the available choices. Some questions also let you say if you don’t know an answer, or would rather not answer.</p> 
+Kit: <p>This module asks you about your family’s medical history. You will be shown a list of conditions and asked to select those that certain family members have or had. If you need help understanding the conditions, you can always ask me! Understanding your family’s experiences with medical issues can tell us a lot about what kinds of medical issues might be related to your genetics. Genetics has to do with traits that are passed down from generation to generation in a family.</p> 
+Kit: <p>You will be asked questions about your family. Think only of people you are related to by blood including those living or deceased.</p> 
+Kit: <p>Please tell me when you're ready to continue!</p> 
+You: Ready 
+Kit: I think I'm waiting for you to answer my question. 
+You: What is your question 
+Kit: We were on the topic You:  You will be asked questions about your family. Thi 
+You: Sure 
+Kit: No need to rush. 
+You: ???????? 
+Kit: Sorry, I am not as powerful as you might think.  
+Kit:  You can always text HELP to see what I actually know and can answer. 
+You: HELP 
+Kit: Ohoh, I'm not supposed to use my canned answer below... something seems wrong...  
+Kit:  Anyway, I am here 24/7 to chat and help. I will try my best to answer your questions and attend to your needs. Since I am imperfect,  my power is limited. 
+Kit: <p>You will be asked questions about your family. Think only of people you are related to by blood including those living or deceased.</p> 
+Kit: <p>Please tell me when you're ready to continue!</p> 
+You: Now 
+Kit: Okay. 
+Kit: {:type "form", :data {:type :form, :instruction "", :fb-display-type nil, :gid "question_206", :questions [{:context-var-name "?q", :content [{:text "<p>Do you know of <strong>at least two first-degree relatives </strong>who have <strong>at least one condition each</strong>?</p>"}], :choices [{:text "Yes", :value 0} {:text "No", :value 1}], :wording "<p>Do you know of <strong>at least two first-degree relatives </strong>who have <strong>at least one condition each</strong>?</p>", :kind :single-choice, :qid "question_206", :topic-id 206, :required true, :heading "Do you know of at least two family members who hav"}]}} 
+You: [{:type "Action", :gid "question_206", :question "question_206", :value 1, :text "No"}] 
+Kit: <p>Unfortunately, you are not eligible for the study. Thanks for your interest.</p> 
