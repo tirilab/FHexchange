@@ -1,0 +1,9 @@
+pandas
+pydantic
+tiktoken
+openai
+azure-core
+azure-ai-inference
+azureml-fsspec
+json-repair
+python-dotenv
