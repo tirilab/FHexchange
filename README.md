@@ -12,9 +12,9 @@ project/
 │   └── FHexchange/
 │       ├── FHexchange_KIT/
 │       │   ├── transcripts/
-│       │   └── annotations/
+│       │   └── FHexchange_KIT_ann.json
 │       └── FHexchange_MTS/
-│           └── annotations/
+│           └── FHexchange_MTS_ann.json
 ├── src/
 │   ├── __init__.py
 │   ├── core.py
@@ -35,7 +35,7 @@ The FHexchange-KIT transcripts are .txt files within the transcripts/ folder. Th
   
   ## Annotation file convention
   
-  Each annotation file is a single JSON dictionary where:
+  Each annotation file (FHexchange_KIT_ann.json and FHexchange_MTS_ann.json) is a single JSON dictionary where:
   - ***keys*** correspond to transcript/dialog IDs
   - ***values*** are lists of annotated family history mentions for that record
   
