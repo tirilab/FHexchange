@@ -8,7 +8,7 @@ FHexchange is a resource that consists of annotated data from two existing dialo
 2. 154 FHx-related dialogs from the openly available MTS-Dialog dataset from Ben Abacha et al., 2023, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics [^2], referred to as FHexchange-MTS. [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog) 
 
 Folder structure is organized as follows:
-'''
+'''text
 FHexchange/
 ├── FHexchange_KIT/
 │   ├── transcripts/
@@ -26,10 +26,12 @@ FHexchange/
 and named according to the two data sources. The FHexchange_MTS transcripts can be downloaded from the MTS-Dialog repository. 
 
 The annotation files have the following convention: 
-Annotation file convention
+
 Each annotation file is a single JSON dictionary where:
 - keys correspond to transcript/dialog IDs
 - values are lists of annotated family history mentions for that record
+
+  
 Each mention contains the following fields:
 
 - family_member: the relative mentioned in the family history
