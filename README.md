@@ -1,7 +1,8 @@
 # FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources
 ## Introduction to this resource
-Thanks for visiting this repository. Here you can access the annotated datasets from the paper: **FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources, BioNLP 2026** (without UMLS identifiers). 
-If you'd like to access the UMLS CUI annotations, please contact the authors using this form: 
+Thanks for visiting this repository. Here you can access the annotated datasets from the [paper](https://aclanthology.org/2026.bionlp-1.82/): 
+``` FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources (Nguyen et al., BioNLP 2026)
+```
 
 ## Dataset sources
 FHexchange is a resource that consists of annotated data from two existing dialog corpora:
@@ -9,68 +10,68 @@ FHexchange is a resource that consists of annotated data from two existing dialo
 2. 154 FHx-related dialogs from the openly available MTS-Dialog dataset from Ben Abacha et al., 2023, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics [^2], referred to as FHexchange-MTS. [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog) 
 
 ## Folder structure
+The repository is organized by the data and other code as follows:
 
-The repository is organized according to the two data sources as follows:
+project/
+├── data/
+│   └── FHexchange/
+│       ├── FHexchange_KIT/
+│       │   ├── transcripts/
+│       │   └── annotations/
+│       └── FHexchange_MTS/
+│           └── annotations/
+├── src/
+│   ├── scripts/
+│   │   ├── zero_shot/
+│   │   └── few_shot/
+│   └── ...
+├── README.md
 
-```text
-FHexchange/
-├── FHexchange_KIT/
-│   ├── transcripts/
-│   │   ├── 0.txt
-│   │   ├── 1.txt
-│   │   ├── 2.txt
-│   │   └── ...
-│   └── annotations/
-│       └── FHexchange_KIT.json
-│
-├── FHexchange_MTS/
-│   └── annotations/
-│       └── FHexchange_MTS.json
-
-```
-The FHexchange_MTS transcripts can be downloaded from the MTS-Dialog repository. 
-
-## Annotation file convention
-
-Each annotation file is a single JSON dictionary where:
-- ***keys*** correspond to transcript/dialog IDs
-- ***values*** are lists of annotated family history mentions for that record
-
+## Data
+The FHexchange-KIT transcripts are .txt files within the transcripts/ folder. The FHexchange_MTS transcripts can be downloaded from the [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog) . 
   
-Each individual family history mention contains the following fields:
-
-- **family_member**: the relative mentioned in the family history
-- **age_of_onset**: age when the condition began, if available
-- **observation**: the condition, symptom, or health-related observation
-- **side_of_family**: maternal/paternal side, if specified
-- **living_status**: whether the family member is living or deceased, if available
-- **age**: age of the family member, if mentioned
-- **age_of_death**: age at death, if mentioned
-- **cause_of_death**: reported cause of death, if available
-- **negated**: whether the condition is negated or absent (true/false)
-
-if not mentioned, the value is null. 
-
-### Example
-```
-{
-  "1": [
-    {
-      "family_member": "Mother",
-      "age_of_onset": null,
-      "observation": "High blood pressure (hypertension)",
-      "side_of_family": null,
-      "living_status": null,
-      "age": null,
-      "age_of_death": null,
-      "cause_of_death": null,
-      "negated": false
-    }
-  ]
-}
-```
-> [!NOTE]
-> The set with UMLS CUI annotations includes an additional field labeled **cui**. Please complete the form to verify your UMLS Terminology Services account in order to access the data. 
+  ## Annotation file convention
+  
+  Each annotation file is a single JSON dictionary where:
+  - ***keys*** correspond to transcript/dialog IDs
+  - ***values*** are lists of annotated family history mentions for that record
+  
+    
+  Each individual family history mention contains the following fields:
+  
+  - **family_member**: the relative mentioned in the family history
+  - **age_of_onset**: age when the condition began, if available
+  - **observation**: the condition, symptom, or health-related observation
+  - **side_of_family**: maternal/paternal side, if specified
+  - **living_status**: whether the family member is living or deceased, if available
+  - **age**: age of the family member, if mentioned
+  - **age_of_death**: age at death, if mentioned
+  - **cause_of_death**: reported cause of death, if available
+  - **negated**: whether the condition is negated or absent (true/false)
+  
+  if not mentioned, the value is null. 
+  
+  ### Example
+  ```
+  {
+    "1": [
+      {
+        "family_member": "Mother",
+        "age_of_onset": null,
+        "observation": "High blood pressure (hypertension)",
+        "side_of_family": null,
+        "living_status": null,
+        "age": null,
+        "age_of_death": null,
+        "cause_of_death": null,
+        "negated": false
+      }
+  ...
+    ]
+  }
+  ```
+  > [!NOTE]
+  > The set with UMLS CUI annotations includes an additional field labeled **cui**. Please complete the form to verify your UMLS Terminology Services account in order to access the data. 
 
 ## Citation
 If you use this resource, please cite our paper:
