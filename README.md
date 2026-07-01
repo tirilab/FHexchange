@@ -17,8 +17,6 @@ project/
 │           └── annotations/
 ├── src/
 │   ├── scripts/
-│   │   ├── zero_shot/
-│   │   └── few_shot/
 │   └── ...
 ├── README.md
 ```
@@ -73,7 +71,44 @@ The FHexchange-KIT transcripts are .txt files within the transcripts/ folder. Th
   }
   ```
   > [!NOTE]
-  > The set with UMLS CUI annotations includes an additional field labeled **cui**. Please complete the form to verify your UMLS Terminology Services account in order to access the data. 
+  > The set with UMLS CUI annotations includes an additional field labeled **cui**. Please complete the [form](https://jhmi.co1.qualtrics.com/jfe/form/SV_5cjqV5sKSH1WDf8) to verify your UMLS Terminology Services account in order to access the data. 
+
+# Code
+We included scripts for reproducing FHx extraction experiments on the FHexchange datasets using structured LLM outputs using Microsoft Azure endpoints, but as approaches for structured outputs develop and progress, the syntax may change.
+
+## Files
+| File | Description |
+|------|-------------|
+| `core.py` | Main extraction logic, including schema definition, batching, tokenization, and response parsing. |
+| `prompts.py` | Zero-shot and few-shot prompts used for FHx extraction. |
+| `run_experiment.py` | Entry-point script for running extraction experiments. |
+| `__init__.py` | Marks the directory as a Python package. |
+| `requirements.txt` | Python dependencies needed to run the scripts. |
+## Usage
+The script expects a pickled dictionary of pandas DataFrames, where each key is a dataset name and each value contains at least the dataset name and then the data.
+
+Example:
+```
+python
+{
+    "fhexchange_kit": pd.DataFrame(...),
+    "fhexchange_mts": pd.DataFrame(...),
+}
+```
+Example command
+```bash
+python src/run_experiment.py \
+  --input-pkl path/to/datasets.pkl \
+  --output-dir outputs \
+  --results-dir results \
+  --backend openai \
+  --model-name gpt-4o \
+  --mode few_shot
+``` 
+## Reproducibility notes
+To run the code, set the required environment variables for your model endpoint and API key. The prompts and schema are included in the repository so that the extraction setup can be reproduced.
+
+
 
 ## Citation
 If you use this resource, please cite our paper:
