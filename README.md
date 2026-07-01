@@ -7,8 +7,11 @@ FHexchange is a resource that consists of annotated data from two existing dialo
 1. 104 Chatbot transcripts from Nguyen et al., 2024, JMIR [^1] referred to as FHexchange-KIT, and
 2. 154 FHx-related dialogs from the openly available MTS-Dialog dataset from Ben Abacha et al., 2023, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics [^2], referred to as FHexchange-MTS. [MTS-Dialog repository](https://github.com/abachaa/MTS-Dialog) 
 
-Folder structure is organized as follows:
-'''text
+## Folder structure
+
+The repository is organized according to the two data sources as follows:
+
+```text
 FHexchange/
 ├── FHexchange_KIT/
 │   ├── transcripts/
@@ -22,29 +25,33 @@ FHexchange/
 ├── FHexchange_MTS/
 │   └── annotations/
 │       └── FHexchange_MTS.json
-'''
-and named according to the two data sources. The FHexchange_MTS transcripts can be downloaded from the MTS-Dialog repository. 
 
-The annotation files have the following convention: 
+```
+The FHexchange_MTS transcripts can be downloaded from the MTS-Dialog repository. 
+
+## Annotation file convention
 
 Each annotation file is a single JSON dictionary where:
-- keys correspond to transcript/dialog IDs
-- values are lists of annotated family history mentions for that record
+- ***keys*** correspond to transcript/dialog IDs
+- ***values*** are lists of annotated family history mentions for that record
 
   
-Each mention contains the following fields:
+Each individual family history mention contains the following fields:
 
-- family_member: the relative mentioned in the family history
-- age_of_onset: age when the condition began, if available
-- observation: the condition, symptom, or health-related observation
-- side_of_family: maternal/paternal side, if specified
-- living_status: whether the family member is living or deceased, if available
-- age: age of the family member, if mentioned
-- age_of_death: age at death, if mentioned
-- cause_of_death: reported cause of death, if available
-- negated: whether the condition is negated or absent (true/false)
+- **family_member**: the relative mentioned in the family history
+- **age_of_onset**: age when the condition began, if available
+- **observation**: the condition, symptom, or health-related observation
+- **side_of_family**: maternal/paternal side, if specified
+- **living_status**: whether the family member is living or deceased, if available
+- **age**: age of the family member, if mentioned
+- **age_of_death**: age at death, if mentioned
+- **cause_of_death**: reported cause of death, if available
+- **negated**: whether the condition is negated or absent (true/false)
+
+if not mentioned, the value is null. 
+
 ### Example
-'''
+```
 {
   "1": [
     {
@@ -56,12 +63,13 @@ Each mention contains the following fields:
       "age": null,
       "age_of_death": null,
       "cause_of_death": null,
-      "cui": "C0020540",
       "negated": false
     }
   ]
 }
-''' 
+```
+[!NOTE]
+The set with UMLS CUI annotations includes an additional field labeled **cui**. Please complete the form to verify your UMLS Terminology Services account in order to access the data. 
 
 ## Acknowledgments
 We'd like to acknowledge the genetic counselors who assisted us in developing the annotation guideline. Additionally, thank you to the MTS-Dialog dataset authors, Drs. Asma Ben Abacha, Wen-wai Yim, Yadan Fan, Thomas Lin for making the resource accessible for the clinical NLP research community!
