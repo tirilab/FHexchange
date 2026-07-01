@@ -1,6 +1,7 @@
 # FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources
 ## Introduction to this resource
-Thanks for visiting this repository. Here you can access the annotated datasets from the paper: **FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources, BioNLP 2026** (without UMLS identifiers). If you'd like to access the UMLS CUI annotations, please contact the authors using this form: 
+Thanks for visiting this repository. Here you can access the annotated datasets from the paper: **FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources, BioNLP 2026** (without UMLS identifiers). 
+If you'd like to access the UMLS CUI annotations, please contact the authors using this form: 
 
 ## Dataset sources
 FHexchange is a resource that consists of annotated data from two existing dialog corpora:
@@ -68,9 +69,26 @@ if not mentioned, the value is null.
   ]
 }
 ```
-[!NOTE]
-The set with UMLS CUI annotations includes an additional field labeled **cui**. Please complete the form to verify your UMLS Terminology Services account in order to access the data. 
+> [!NOTE]
+> The set with UMLS CUI annotations includes an additional field labeled **cui**. Please complete the form to verify your UMLS Terminology Services account in order to access the data. 
 
+## Citation
+If you use this resource, please cite our paper:
+```
+@inproceedings{nguyen-etal-2026-fhexchange,
+  title = "{FH}exchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources",
+  author = "Nguyen, Michelle and Soley, Nidhi and Zirikly, Ayah and Sedoc, Jo{\"a}o and Taylor, Casey",
+  editor = "Demner-Fushman, Dina and Ananiadou, Sophia and Roberts, Kirk and Tsujii, Junichi",
+  booktitle = "{B}io{NLP} 2026",
+  month = jul,
+  year = "2026",
+  address = "San Diego, California",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2026.bionlp-1.82/",
+  pages = "1014--1028",
+  ISBN = "979-8-89176-434-7"
+}
+```
 ## Acknowledgments
 We'd like to acknowledge the genetic counselors who assisted us in developing the annotation guideline. Additionally, thank you to the MTS-Dialog dataset authors, Drs. Asma Ben Abacha, Wen-wai Yim, Yadan Fan, Thomas Lin for making the resource accessible for the clinical NLP research community!
 
