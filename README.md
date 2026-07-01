@@ -9,12 +9,11 @@ The repository is organized by the data and other code as follows:
 ```text
 project/
 ├── data/
-│   └── FHexchange/
-│       ├── FHexchange_KIT/
-│       │   ├── transcripts/
-│       │   └── FHexchange_KIT_ann.json
-│       └── FHexchange_MTS/
-│           └── FHexchange_MTS_ann.json
+│   ├── FHexchange_KIT/
+│   │   ├── transcripts/
+│   │   └── FHexchange_KIT_ann.json
+│   └── FHexchange_MTS/
+│       └── FHexchange_MTS_ann.json
 ├── src/
 │   ├── __init__.py
 │   ├── core.py
