@@ -49,7 +49,7 @@ The FHexchange-KIT transcripts are .txt files within the transcripts/ folder. Th
   - **age**: age of the family member, if mentioned
   - **age_of_death**: age at death, if mentioned
   - **cause_of_death**: reported cause of death, if available
-  - **negated**: whether the condition is negated or absent (true/false)
+  - **negated**: whether the condition is negated/confirmed within the text to be not present (true/false)
   
   if not mentioned, the value is null. 
   
